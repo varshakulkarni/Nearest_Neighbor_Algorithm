@@ -1,0 +1,14 @@
+Nearest Neighbor Project:
+
+Input1.txt file contains the following cross-validation information.
+
+2 9 3
+0 1 2 3 4 5 6 7 8
+8 1 2 3 4 5 6 7 0
+4 0 8 2 6 3 7 1 5
+
+Input2.txt file contains the training data.
+
+Output.txt file consists of the console output, which includes the error value, sigma and the grid.
+
+Run the program in eclipse to see the output in output.txt
